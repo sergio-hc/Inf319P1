@@ -1,0 +1,16 @@
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\bin\Debug\netcoreapp3.1\Ex319 - Calculadora.exe
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\bin\Debug\netcoreapp3.1\Ex319 - Calculadora.deps.json
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\bin\Debug\netcoreapp3.1\Ex319 - Calculadora.runtimeconfig.json
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\bin\Debug\netcoreapp3.1\Ex319 - Calculadora.runtimeconfig.dev.json
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\bin\Debug\netcoreapp3.1\Ex319 - Calculadora.dll
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\bin\Debug\netcoreapp3.1\Ex319 - Calculadora.pdb
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\obj\Debug\netcoreapp3.1\Ex319 - Calculadora.csproj.AssemblyReference.cache
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\obj\Debug\netcoreapp3.1\Ex319 - Calculadora.csproj.GenerateResource.cache
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\obj\Debug\netcoreapp3.1\Ex319 - Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\obj\Debug\netcoreapp3.1\Ex319 - Calculadora.AssemblyInfoInputs.cache
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\obj\Debug\netcoreapp3.1\Ex319 - Calculadora.AssemblyInfo.cs
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\obj\Debug\netcoreapp3.1\Ex319 - Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\obj\Debug\netcoreapp3.1\Ex319 - Calculadora.dll
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\obj\Debug\netcoreapp3.1\Ex319 - Calculadora.pdb
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\obj\Debug\netcoreapp3.1\Ex319 - Calculadora.genruntimeconfig.cache
+C:\Users\SERGIO\source\repos\Ex319 - Calculadora\Ex319 - Calculadora\obj\Debug\netcoreapp3.1\Ex319___Calculadora.CALCULADORA.resources
